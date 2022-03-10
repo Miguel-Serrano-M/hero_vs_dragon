@@ -8,4 +8,5 @@ Please describe the rules in this list:
 1. The hero battles the dragon
 2. The hero and the dragon have a set of "hit points"
 3. The hit points value is read from the user
-4. _keep describing the problem_
+4. The hero and the dragon keep fighting until one of them dies
+5. The game is over
